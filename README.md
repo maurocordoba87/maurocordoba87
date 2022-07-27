@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauro Córdoba</h1>
-<p>de Santa Fe, Argentina</p>
+<p align="center">de Santa Fe, Argentina</p>
 <h3 align="center">A student frontend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **Html, CSS and JavaScript**
