@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Html, CSS and JavaScript**
 
-- 📫 How to reach me **maurocordoba87@gmail.com**
+- 📫 How to reach me: **maurocordoba87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
